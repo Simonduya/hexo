@@ -1,3 +1,11 @@
+---
+title: JavaScript常用common函数
+tags: JavaScript
+categories: JavaScript
+abbrlink: e28e5a40
+date: 2023-05-24 22:17:28
+---
+
 ## 数组转对象
 
 ```typescript

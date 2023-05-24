@@ -1,3 +1,11 @@
+---
+title: JavaScript程序错误与异常
+tags: JavaScript
+categories: JavaScript
+abbrlink: 48466cd5
+date: 2023-05-24 22:17:28
+---
+
 ## 程序错误与异常
 
 ### 访问对象的未知属性

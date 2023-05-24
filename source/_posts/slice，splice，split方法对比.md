@@ -1,3 +1,10 @@
+---
+title: slice，splice，split方法对比
+tags: JavaScript
+categories: JavaScript
+abbrlink: cf16bea3
+date: 2023-05-24 22:17:28
+---
 ## slice，splice，split方法对比
 `slice()`、`splice()` 和 `split()` 这三个方法的用途和参数有些相似，容易混淆。以下是它们各自的用途和区别
 

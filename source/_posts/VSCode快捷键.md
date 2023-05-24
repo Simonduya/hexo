@@ -1,5 +1,5 @@
 ---
-title: VS Code快捷键
+title: VSCode快捷键
 tags:
   - vscode
 categories: AI

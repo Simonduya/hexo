@@ -1,3 +1,11 @@
+---
+title: JavaScript程序健壮性和稳定性
+tags: JavaScript
+categories: JavaScript
+abbrlink: 9520ab60
+date: 2023-05-24 22:29:20
+---
+
 ## JavaScript 程序的健壮性和稳定性
 JavaScript 程序的健壮性和稳定性是指程序在各种异常情况下仍然能够正常运行，并且不会因为一些意外的错误导致崩溃或停止执行。具体来说，一个健壮和稳定的 JavaScript 程序应该具备以下特点：
 
